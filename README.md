@@ -5,7 +5,7 @@ Supports folia, paper, purpur, spigot, bukkit and mostly all servers!
 
 Blocks 100% hackers, griefers, beggers, cheaters and more! 
 
-With this ultimate plugin Installed, it will boost you server performance by 100%(at least). 
+It will boost you server performance by 100%(at least). 
 
 This plugin destresses the server by unloading all chunks, machines and farms.
 
