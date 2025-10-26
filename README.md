@@ -1,7 +1,7 @@
 # AntiPlayer
 The ultimate Minecraft anti player plugin! 
 
-Supports folia, paper, purpur, spigot, bukkit and mostly all servers! 
+Supports folia, paper, purpur, spigot, bukkit 1.19-1.21.
 
 Blocks 100% hackers, griefers, beggers, cheaters and more! 
 
