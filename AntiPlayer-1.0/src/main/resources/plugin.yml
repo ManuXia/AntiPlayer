@@ -1,7 +1,0 @@
-name: AntiPlayer
-main: kg.edu.mmcs.antiplayer.AntiPlayer
-version: '1.0'
-api-version: '1.19'
-folia-supported: true
-author: ManuXia
-description: Best antiplayer plugin! Bloking 100% players!
